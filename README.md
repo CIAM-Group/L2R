@@ -1,6 +1,6 @@
 ## [SIGKDD 2026] Learning to Reduce Search Space for Generalizable Neural Routing Solver
 
-This repository contains the code implementation of the paper [**Learning to Reduce Search Space for Generalizable Neural Routing Solver**](https://arxiv.org/pdf/2503.03137). In this paper, we propose a powerful RL-based constructive neural routing solver called L2R. L2R is the first learning-based dynamic Search Space Reduction (SSR) framework designed to scale constructive Neural Combinatorial Optimization (NCO) to large-scale Vehicle Routing Problems (VRPs). By extracting patterns from problem-specific features, L2R adaptively prioritizes nodes to dynamically prune the search space at each construction step, effectively overcoming the limitations of traditional distance-based reduction methods.
+This repository contains the code implementation of the paper [**Learning to Reduce Search Space for Generalizable Neural Routing Solver**](https://arxiv.org/pdf/2503.03137v3). In this paper, we propose a powerful RL-based constructive neural routing solver called L2R. L2R is the first learning-based dynamic Search Space Reduction (SSR) framework designed to scale constructive Neural Combinatorial Optimization (NCO) to large-scale Vehicle Routing Problems (VRPs). By extracting patterns from problem-specific features, L2R adaptively prioritizes nodes to dynamically prune the search space at each construction step, effectively overcoming the limitations of traditional distance-based reduction methods.
 
 ![L2R](utils/L2R.png)
 
